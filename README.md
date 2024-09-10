@@ -1,1 +1,2 @@
-Here, I have just added the templates for Data Structures and Algorithms.
+# Data-Structures-and-Algorithms
+Hi there! I have tried implementing all the basic data structures and algorithms in this repository using C++!
